@@ -10,6 +10,13 @@ Welcome to TechVerse Innovations! This is the official website for our company, 
 
 TechVerse Innovations is a startup focused on creating cutting-edge solutions for businesses using emerging technologies like Artificial Intelligence, Blockchain, and IoT. The company aims to simplify tech adoption for small-to-medium businesses while emphasizing sustainability and accessibility.
 
+## Deployment Instructions 
+
+* Creation of GitHub Repository
+* Upload Website Files
+* Configure in Github Pages
+* Access Website through the Link (https://piyujasten.github.io/TechVerse-Innovations)
+
 
 ### Services
 
